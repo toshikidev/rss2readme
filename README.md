@@ -1,8 +1,6 @@
 # 📡📝 RSS2README Action
 > A GitHub Action that updates a section of a README from an RSS feed.
 
----
-
 ## Usage
 
 You can use this action in a workflow file like any other:
