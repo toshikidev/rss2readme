@@ -73,15 +73,9 @@ Path to the README file to update.
 ### Example RSS feed:
 
 <!--START_SECTION:example-->
-> 
-
-[Read more!]()
-> 
-
-[Read more!]()
-> 
-
-[Read more!]()
+* [](https://note.toshiki.devroadmap.html)
+* [Toshiki's Notebook](https://note.toshiki.devindex.html)
+* [Git push results in "Authentication Failed”](https://note.toshiki.devgetting-started.html)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
