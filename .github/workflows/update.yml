@@ -15,7 +15,6 @@ jobs:
       - uses: toshikidev/rss2readme@v0.0.1
         with:
           feed-url: https://note.toshiki.dev/feed.rss
-          template: "> {{ excerpt }}\n\n[Read more!]({{ url }})"
           readme-section: example
           branch: master
 
