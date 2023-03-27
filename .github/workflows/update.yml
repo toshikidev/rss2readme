@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: toshikidev/rss2readme@v0.0.1
         with:
-          feed-url: https://note.toshiki.dev/feed.rss
+          feed-url: https://rsshub.app/twitter/user/andatoshiki
           readme-section: example
           branch: master
 
