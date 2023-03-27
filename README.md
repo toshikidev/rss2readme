@@ -73,9 +73,11 @@ Path to the README file to update.
 ### Example RSS feed:
 
 <!--START_SECTION:example-->
-* [](https://note.toshiki.devroadmap.html)
-* [Toshiki's Notebook](https://note.toshiki.devindex.html)
-* [Git push results in "Authentication Failed”](https://note.toshiki.devgetting-started.html)
+* [Verifying myself: I am toshikidev on http://Keybase.io. pQuYoKO8oET7dLOazltqkPLQs2MIceG5rr3m / https://keybase.io/toshikidev/sigs/pQuYoKO8oET7dLOazltq...](https://twitter.com/andatoshiki/status/1640183615249346560)
+* [Sakura 🌸 https://t.co/YoEmRMTmr3](https://twitter.com/andatoshiki/status/1639967758782812161)
+* [I love Excalidraw for architectural diagrams! #excalidraw #diagram #architecture #software #engineering #graph https://t.co/comucWgobW](https://twitter.com/andatoshiki/status/1639542865130057729)
+* [Re @hamident83hami @SaveToNotion tweet](https://twitter.com/andatoshiki/status/1633310247464091649)
+* [Re @LinuxHandbook @SaveToNotion #thread](https://twitter.com/andatoshiki/status/1633080703771639809)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
