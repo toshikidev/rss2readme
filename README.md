@@ -73,11 +73,11 @@ Path to the README file to update.
 ### Example RSS feed:
 
 <!--START_SECTION:example-->
+* [Re @MIT_CSAIL @Prathkum @SaveToNotion #tweet](https://twitter.com/andatoshiki/status/1643737707926159360)
 * [Re @rebecca_hoshino https://t.co/x1Nu8HcG3A](https://twitter.com/andatoshiki/status/1643210118077763586)
 * [Re @linuxopsys @SaveToNotion #tweet](https://twitter.com/andatoshiki/status/1643209761998135298)
 * [Verifying myself: I am toshikidev on http://Keybase.io. pQuYoKO8oET7dLOazltqkPLQs2MIceG5rr3m / https://keybase.io/toshikidev/sigs/pQuYoKO8oET7dLOazltq...](https://twitter.com/andatoshiki/status/1640183615249346560)
 * [Sakura 🌸 https://t.co/YoEmRMTmr3](https://twitter.com/andatoshiki/status/1639967758782812161)
-* [I love Excalidraw for architectural diagrams! #excalidraw #diagram #architecture #software #engineering #graph https://t.co/comucWgobW](https://twitter.com/andatoshiki/status/1639542865130057729)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
