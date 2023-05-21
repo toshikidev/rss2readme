@@ -73,11 +73,11 @@ Path to the README file to update.
 ### Example RSS feed:
 
 <!--START_SECTION:example-->
+* [好想谈恋爱](https://twitter.com/andatoshiki/status/1659881240311529473)
 * [Re @Terraria_Logic happy birthday](https://twitter.com/andatoshiki/status/1658886856057180160)
 * [Re @Notepad_plus True](https://twitter.com/andatoshiki/status/1645338285261172736)
 * [Verifying myself: I am andatoshiki on http://Keybase.io. 3jwz-joWZi5bh85dmH6uFyHFd4hJpY1IjEAy / https://keybase.io/andatoshiki/sigs/3jwz-joWZi5bh85dmH...](https://twitter.com/andatoshiki/status/1645324859055173633)
 * [Re @MIT_CSAIL @Prathkum @SaveToNotion #tweet](https://twitter.com/andatoshiki/status/1643737707926159360)
-* [Re @rebecca_hoshino https://t.co/x1Nu8HcG3A](https://twitter.com/andatoshiki/status/1643210118077763586)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
