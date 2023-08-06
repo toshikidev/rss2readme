@@ -73,11 +73,11 @@ Path to the README file to update.
 ### Example RSS feed:
 
 <!--START_SECTION:example-->
+* [Re @vim_tricks If I may ask a off track question out of the vim part, what is the keyboard input recording application/program used throughout the ani...](https://twitter.com/andatoshiki/status/1673403983506083843)
+* [Re @daboigbae Well nothing to do with me even if the description fits, cuz I work with rust. 😝](https://twitter.com/andatoshiki/status/1673401878070304768)
 * [好想谈恋爱](https://twitter.com/andatoshiki/status/1659881240311529473)
-* [Verifying myself: I am andatoshiki on http://Keybase.io. 3jwz-joWZi5bh85dmH6uFyHFd4hJpY1IjEAy / https://keybase.io/andatoshiki/sigs/3jwz-joWZi5bh85dmH...](https://twitter.com/andatoshiki/status/1645324859055173633)
-* [Verifying myself: I am toshikidev on http://Keybase.io. pQuYoKO8oET7dLOazltqkPLQs2MIceG5rr3m / https://keybase.io/toshikidev/sigs/pQuYoKO8oET7dLOazltq...](https://twitter.com/andatoshiki/status/1640183615249346560)
-* [Sakura 🌸](https://twitter.com/andatoshiki/status/1639967758782812161)
-* [I love Excalidraw for architectural diagrams! #excalidraw #diagram #architecture #software #engineering #graph](https://twitter.com/andatoshiki/status/1639542865130057729)
+* [Re @Terraria_Logic happy birthday](https://twitter.com/andatoshiki/status/1658886856057180160)
+* [Re @Notepad_plus True](https://twitter.com/andatoshiki/status/1645338285261172736)
 <!--END_SECTION:example-->
 
 > This started as a little proof-of-concept for @brianlovin!
